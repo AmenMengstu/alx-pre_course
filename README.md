@@ -1,2 +1,2 @@
-alx student
+my first readme
 alx
